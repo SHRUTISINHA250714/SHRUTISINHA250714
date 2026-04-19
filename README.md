@@ -81,7 +81,7 @@ I aim to contribute by building **efficient, scalable systems and AI-driven solu
   <a href="https://www.linkedin.com/in/shruti-sinha-87a2452a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/SHRUTISINHA250714?tab=gists">
+  <a href="https://gist.github.com/SHRUTISINHA250714">
     <img src="https://img.shields.io/badge/Gists-black?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:shrutidsce3689@gmail.com">
